@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP1","order":1,"parentId":0,"scrollX":1786.909090909091,"scrollY":480},
+{"id":2,"expanded":false,"name":"load map1","order":2,"parentId":1,"scrollX":1404,"scrollY":768},
+{"id":3,"expanded":false,"name":"MAP3_EmptyRoom","order":3,"parentId":0,"scrollX":1786.2857142857142,"scrollY":754.2857142857142},
+{"id":4,"expanded":false,"name":"load map3","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Hall","order":5,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":6,"expanded":false,"name":"load hall","order":6,"parentId":5,"scrollX":1404,"scrollY":768},
+{"id":7,"expanded":true,"name":"Class","order":7,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":8,"expanded":true,"name":"Cafe","order":9,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":9,"expanded":true,"name":"Gym","order":11,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":10,"expanded":false,"name":"load class","order":8,"parentId":7,"scrollX":1404,"scrollY":768},
+{"id":11,"expanded":false,"name":"load cafe","order":10,"parentId":8,"scrollX":1404,"scrollY":768},
+{"id":12,"expanded":false,"name":"load gym","order":12,"parentId":9,"scrollX":832,"scrollY":640}
+]
